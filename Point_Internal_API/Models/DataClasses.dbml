@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_OPT_POINTINTERNAL_KPT" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=10.14.101.101\shpol;Initial Catalog=DB_OPT_POINTINTERNAL_KPT;Persist Security Info=True;User ID=sqlservices" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DB_OPT_POINTINTERNAL_KPTConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TBL_M_APP_VERSION" Member="TBL_M_APP_VERSIONs">
+    <Type Name="TBL_M_APP_VERSION">
+      <Column Name="os_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="app_version" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="release_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_BARGE" Member="TBL_M_BARGEs">
+    <Type Name="TBL_M_BARGE">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="BARGE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_TUGBOAT" Member="TBL_M_TUGBOATs">
+    <Type Name="TBL_M_TUGBOAT">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TUG_BOAT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_COMPANY" Member="TBL_M_COMPANies">
+    <Type Name="TBL_M_COMPANY">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CUSTOMER" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_BARGIN_ONLINE" Member="VW_BARGIN_ONLINEs">
+    <Type Name="VW_BARGIN_ONLINE">
+      <Column Name="CUSTOMER" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BARGE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TUG_BOAT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_JETTY" Member="TBL_M_JETTies">
+    <Type Name="TBL_M_JETTY">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(1)" CanBeNull="true" />
+      <Column Name="CAPACITY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DURATION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_MENU_APP" Member="TBL_M_MENU_APPs">
+    <Type Name="TBL_M_MENU_APP">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ICON" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="NAMA" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="URL_IOS" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="URL_ANDROID" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_M_USER" Member="TBL_M_USERs">
+    <Type Name="TBL_M_USER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EMAIL" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TELEPON" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NAMA" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FOTO" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="OTP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="STATUS_LOGIN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="VERIFICATION_STATUS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ID_COMPANY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_USER" Member="VW_USERs">
+    <Type Name="VW_USER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EMAIL" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TELEPON" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NAMA" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FOTO" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="OTP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="STATUS_LOGIN" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="VERIFICATION_STATUS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ID_COMPANY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CUSTOMER" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_T_BARGING_ONLINE" Member="TBL_T_BARGING_ONLINEs">
+    <Type Name="TBL_T_BARGING_ONLINE">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_USER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="JETTY" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TUG_BOAT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BARGE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CAPACITY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VESSEL" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="DATE_BOOKING" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="FINISH_BOOKING" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="PROCESS_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="START_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FINISH_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_ACTIVE_BARGING" Member="VW_ACTIVE_BARGINGs">
+    <Type Name="VW_ACTIVE_BARGING">
+      <Column Name="ID_USER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="JETTY" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CUSTOMER" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BARGE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TUG_BOAT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CAPACITY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DATE_BOOKING" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_REQUEST_BARGING" Member="VW_REQUEST_BARGINGs">
+    <Type Name="VW_REQUEST_BARGING">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_USER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NAMA" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CUSTOMER" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="JETTY" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TUG_BOAT" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BARGE" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CAPACITY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VESSEL" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="DATE_BOOKING" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="FINISH_BOOKING" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="PROCESS_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="START_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FINISH_TIME" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_T_IN_APP_NOTIF_POINS" Member="TBL_T_IN_APP_NOTIF_POINs">
+    <Type Name="TBL_T_IN_APP_NOTIF_POIN">
+      <Column Name="id" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="title" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="body" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="url" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="androidAppId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="iosAppId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="downloadUrl" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="isHasBeenRead" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ApprovalType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ApprovaltId" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[VW_NOTIF_APPROVAL BARGING]" Member="VW_NOTIF_APPROVAL_BARGINGs">
+    <Type Name="VW_NOTIF_APPROVAL_BARGING">
+      <Column Name="id" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="title" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="body" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="url" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="androidAppId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="iosAppId" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="downloadUrl" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="isHasBeenRead" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ApprovalType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ApprovaltId" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="ID_USER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_R_CCTV" Member="TBL_R_CCTVs">
+    <Type Name="TBL_R_CCTV">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAMA" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="LINK" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.cufn_isVersionValid" Method="cufn_isVersionValid" IsComposable="true">
+    <Parameter Name="version" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="fullVersion" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="osName" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Boolean" />
+  </Function>
+  <Function Name="dbo.cusp_get_list_jetty" Method="cusp_get_list_jetty">
+    <ElementType Name="cusp_get_list_jettyResult">
+      <Column Name="id" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="VarChar(1)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_get_barging_active" Method="cusp_get_barging_active">
+    <ElementType Name="cusp_get_barging_activeResult">
+      <Column Name="ClientTransId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Customer" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Barge" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Tug_Boat" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Target_Barging" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="EndWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="StartWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TPH" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Kode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Jetty" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="TransNo" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ClientTransId1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TransNo1" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="volumeProgress" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="persentasevolumeProgres" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_get_barging_detail" Method="cusp_get_barging_detail">
+    <ElementType Name="cusp_get_barging_detailResult">
+      <Column Name="ClientTransId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Customer" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Barge" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Tug_Boat" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Target_Barging" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="EndWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="StartWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TPH" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Kode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Jetty" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="TransNo" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ClientTransId1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TransNo1" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="volumeProgress" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="persentasevolumeProgres" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_insertDataForInAppNotificationPOINS" Method="cusp_insertDataForInAppNotificationPOINS">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cusp_update_user_verification_poins" Method="cusp_update_user_verification_poins">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cusp_UpdateStatusSelesaiBarging" Method="cusp_UpdateStatusSelesaiBarging">
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cusp_get_progress_barging_mobile" Method="cusp_get_progress_barging_mobile">
+    <ElementType Name="cusp_get_progress_barging_mobileResult">
+      <Column Name="id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="barging_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nodeDesc" Type="System.String" DbType="VarChar(56) NOT NULL" CanBeNull="false" />
+      <Column Name="Company" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Barge" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Boat" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Planload" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WeightPercentage" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Kode" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_get_last_senselog_realtime" Method="cusp_get_last_senselog_realtime">
+    <ElementType Name="cusp_get_last_senselog_realtimeResult">
+      <Column Name="TransId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NetId" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="StampDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Surface" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Temp" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_avg_range_senselog" Method="cusp_avg_range_senselog">
+    <Parameter Name="StartDate" Parameter="startDate" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="cusp_avg_range_senselogResult">
+      <Column Name="Jam" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tanggal" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Rata_Rata_Surface" Type="System.Decimal" DbType="Decimal(10,1)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

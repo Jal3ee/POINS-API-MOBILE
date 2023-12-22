@@ -1,0 +1,655 @@
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.AssemblyReference.cache
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CoreCompileInputs.cache
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll.config
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.pdb
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe.config
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.rsp
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe.config
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.rsp
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.AppContext.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Console.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Http.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe.config
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.rsp
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Buffers.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.ComponentModel.Annotations.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Memory.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Cors.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\WebGrease.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Buffers.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Memory.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.pdb
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CopyComplete
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.dll
+C:\Users\Rhezaldi Irnantyo\source\repos\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.pdb
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll.config
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.pdb
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe.config
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.rsp
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe.config
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.rsp
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.AppContext.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Collections.Immutable.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Console.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Http.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Sockets.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.ValueTuple.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe.config
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.rsp
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe.config
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Web.Infrastructure.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Buffers.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.ComponentModel.Annotations.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Memory.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Cors.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\WebGrease.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Buffers.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Memory.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.pdb
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.AssemblyReference.cache
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CoreCompileInputs.cache
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CopyComplete
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.pdb
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\BouncyCastle.Crypto.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Hash.xxHash.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\MySql.Data.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\ZstdNet.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\BouncyCastle.Crypto.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.pdb
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\K4os.Hash.xxHash.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\MySql.Data.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\jose-jwt.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Logging.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Collections.Immutable.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.Cng.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Text.Json.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Threading.Tasks.Extensions.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.ValueTuple.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Twilio.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Vonage.dll
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Collections.Immutable.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.Cng.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Text.Json.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.Threading.Tasks.Extensions.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\System.ValueTuple.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Twilio.xml
+D:\KPP\Project\Point_Internal_API\Point_Internal_API\bin\Vonage.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll.config
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Point_Internal_API.pdb
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.exe.config
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csc.rsp
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.exe.config
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\csi.rsp
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.AppContext.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Console.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Globalization.Calendars.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Http.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Net.Sockets.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.ValueTuple.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.exe.config
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\vbc.rsp
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\BouncyCastle.Crypto.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\jose-jwt.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Hash.xxHash.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Logging.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\MySql.Data.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Buffers.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Collections.Immutable.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.ComponentModel.Annotations.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Memory.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.Cng.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Text.Json.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Threading.Tasks.Extensions.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.ValueTuple.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Cors.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Twilio.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Vonage.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\WebGrease.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\ZstdNet.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\BouncyCastle.Crypto.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.pdb
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Google.Protobuf.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\K4os.Hash.xxHash.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Options.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Extensions.Primitives.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.Net.Http.Headers.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\MySql.Data.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Newtonsoft.Json.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Buffers.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Collections.Immutable.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Memory.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Net.Http.Formatting.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Numerics.Vectors.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.Cng.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Text.Encodings.Web.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Text.Json.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Threading.Tasks.Extensions.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.ValueTuple.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.Cors.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Helpers.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Http.WebHost.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Mvc.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Optimization.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.Razor.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\System.Web.WebPages.Razor.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Twilio.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Vonage.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Antlr3.Runtime.pdb
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.AssemblyReference.cache
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CoreCompileInputs.cache
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CopyComplete
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.dll
+E:\Project\Web-ASP.NET\Point_Internal_API\Point_Internal_API\obj\Debug\Point_Internal_API.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Point_Internal_API.dll.config
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Point_Internal_API.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Point_Internal_API.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csc.exe
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csc.exe.config
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csc.rsp
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csi.exe
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csi.exe.config
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\csi.rsp
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.AppContext.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Collections.Immutable.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Console.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.IO.Compression.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.IO.FileSystem.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Net.Http.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Net.Sockets.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.ValueTuple.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Xml.XPath.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\vbc.exe
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\vbc.exe.config
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\vbc.rsp
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\VBCSCompiler.exe
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\roslyn\VBCSCompiler.exe.config
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Antlr3.Runtime.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\BouncyCastle.Crypto.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Google.Protobuf.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\jose-jwt.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Compression.LZ4.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Hash.xxHash.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Logging.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Options.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Primitives.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.IdentityModel.Logging.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Net.Http.Headers.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Web.Infrastructure.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\MySql.Data.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Newtonsoft.Json.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Buffers.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Collections.Immutable.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.ComponentModel.Annotations.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Memory.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Net.Http.Formatting.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Numerics.Vectors.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Security.Cryptography.Cng.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Text.Encodings.Web.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Text.Json.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Threading.Tasks.Extensions.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.ValueTuple.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Cors.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Helpers.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.Cors.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.WebHost.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Mvc.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Optimization.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Razor.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.Deployment.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.Razor.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Twilio.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Vonage.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\WebGrease.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\ZstdNet.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\BouncyCastle.Crypto.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Google.Protobuf.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Google.Protobuf.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Compression.LZ4.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Compression.LZ4.Streams.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\K4os.Hash.xxHash.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Cors.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Logging.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Options.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Extensions.Primitives.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.Net.Http.Headers.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\MySql.Data.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Newtonsoft.Json.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Buffers.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Collections.Immutable.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Memory.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Net.Http.Formatting.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Numerics.Vectors.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Security.Cryptography.Cng.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Security.Cryptography.OpenSsl.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Text.Encodings.Web.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Text.Json.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Threading.Tasks.Extensions.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.ValueTuple.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.Cors.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Helpers.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Http.WebHost.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Mvc.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Optimization.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.Razor.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.Deployment.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\System.Web.WebPages.Razor.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Twilio.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Vonage.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Antlr3.Runtime.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.AssemblyReference.cache
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CoreCompileInputs.cache
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\obj\Debug\Point_Internal_API.csproj.CopyComplete
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\obj\Debug\Point_Internal_API.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\obj\Debug\Point_Internal_API.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\JsonSubTypes.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\OneSignalApi.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Polly.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\RestSharp.dll
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\OneSignalApi.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\OneSignalApi.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Polly.pdb
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\Polly.xml
+D:\KPP\CLONE GITHUB\point-internal-api\Point_Internal_API\bin\RestSharp.xml

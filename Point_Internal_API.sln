@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point_Internal_API", "Point_Internal_API\Point_Internal_API.csproj", "{45DDE502-283C-471B-8EB9-106084A8EEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DDE502-283C-471B-8EB9-106084A8EEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DDE502-283C-471B-8EB9-106084A8EEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DDE502-283C-471B-8EB9-106084A8EEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DDE502-283C-471B-8EB9-106084A8EEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834389C8-2579-41BF-858E-9BFC4237E1F7}
+	EndGlobalSection
+EndGlobal
