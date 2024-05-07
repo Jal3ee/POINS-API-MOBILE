@@ -14,8 +14,40 @@ namespace Point_Internal_API.Controllers
     {
         DataClassesDataContext db = new DataClassesDataContext();
 
+        [Route("Create_Request_TugBoat")]
+        [HttpPost]
+        public IHttpActionResult CreateTugboat(string name)
+        {
+            try
+            {
+                var tugboatW = name + " (waiting list)";
+                db.cusp_insert_tugboat(tugboatW);
 
-        
+                return Ok(new { Data = tugboatW, Status = true, Message = "Data Berhasil dibuat!!!" });
+            }
+            catch (Exception e)
+            {
+                return Content(HttpStatusCode.BadRequest, new { Message = e.Message });
+            }
+        }
+
+        [Route("Create_Request_Barge")]
+        [HttpPost]
+        public IHttpActionResult CreateBarge(string name)
+        {
+            try
+            {
+                var bargeW = name + " (waiting list)";
+                db.cusp_insert_barge(bargeW);
+
+                return Ok(new { Data = bargeW, Status = true, Message = "Data Berhasil dibuat!!!" });
+            }
+            catch (Exception e)
+            {
+                return Content(HttpStatusCode.BadRequest, new { Message = e.Message });
+            }
+        }
+
         [Route("Get_BargingOnline")]
         [HttpGet]
         public IHttpActionResult GetBargingOnline([FromUri] RequestData request)
@@ -27,8 +59,8 @@ namespace Point_Internal_API.Controllers
                 using (var db = new DataClassesDataContext())
                 {
                     var companies = db.TBL_M_COMPANies.Select(c => new { id = c.ID, name = c.CUSTOMER }).ToList();
-                    var tugBoats = db.TBL_M_TUGBOATs.Select(tb => new { id = tb.ID, name = tb.TUG_BOAT }).ToList();
-                    var barges = db.TBL_M_BARGEs.Select(b => new { id = b.ID, name = b.BARGE }).ToList();
+                    var tugBoats = db.TBL_M_TUGBOATs.Select(tb => new { id = tb.ID, name = tb.TUG_BOAT, verif = tb.VERIFICATION_STATUS }).ToList();
+                    var barges = db.TBL_M_BARGEs.Select(b => new { id = b.ID, name = b.BARGE, verif = b.VERIFICATION_STATUS }).ToList();
                     var jetties = db.cusp_get_list_jetty().ToList();
                     var capacities = db.TBL_M_JETTies.Select(b => new { id = b.ID, name = b.NAME, capacity = b.CAPACITY, duration = b.DURATION }).ToList();
 
@@ -44,7 +76,7 @@ namespace Point_Internal_API.Controllers
                     return Ok(new { Data = test, Status = true, Message = "Data Berhasil Diambil!!!" });
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 return Content(HttpStatusCode.BadRequest, new { Message = e.Message });
             }
@@ -141,7 +173,7 @@ namespace Point_Internal_API.Controllers
             try
             {
                 List<VW_REQUEST_BARGING> bargingOnlineList = db.VW_REQUEST_BARGINGs
-                    .Where(b => b.ID_USER == id && b.STATUS == "diterima" && b.DATE_BOOKING.HasValue && b.DATE_BOOKING.Value.Date >= startDate.Date && b.DATE_BOOKING.Value.Date <= endDate.Date)
+                    .Where(b => b.COMPANY_ID == id && b.STATUS == "diterima" && b.DATE_BOOKING.HasValue && b.DATE_BOOKING.Value.Date >= startDate.Date && b.DATE_BOOKING.Value.Date <= endDate.Date)
                     .ToList();
 
                 if (bargingOnlineList == null || bargingOnlineList.Count == 0)
@@ -262,7 +294,7 @@ namespace Point_Internal_API.Controllers
                     FINISH_TIME = finishTime,
                     FINISH_BOOKING = finishBooking,
                     ID_USER = booking.ID, // Assign the ID_Booking value from the other table
-                    STATUS = "Progress" // Set the STATUS property to "Progress"
+                    STATUS = "Pending" // Set the STATUS property to "Progress"
                 };
 
                 db.TBL_T_BARGING_ONLINEs.InsertOnSubmit(create);

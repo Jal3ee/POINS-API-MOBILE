@@ -252,4 +252,22 @@
       <Column Name="Kode" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
     </ElementType>
   </Function>
+  <Function Name="dbo.cusp_get_last_senselog_realtime" Method="cusp_get_last_senselog_realtime">
+    <ElementType Name="cusp_get_last_senselog_realtimeResult">
+      <Column Name="TransId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NetId" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="StampDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Surface" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Temp" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cusp_avg_range_senselog" Method="cusp_avg_range_senselog">
+    <Parameter Name="StartDate" Parameter="startDate" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="EndDate" Parameter="endDate" Type="System.DateTime" DbType="Date" />
+    <ElementType Name="cusp_avg_range_senselogResult">
+      <Column Name="Jam" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tanggal" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Rata_Rata_Surface" Type="System.Decimal" DbType="Decimal(10,1)" CanBeNull="true" />
+    </ElementType>
+  </Function>
 </Database>

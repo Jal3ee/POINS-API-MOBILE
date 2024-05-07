@@ -16,6 +16,33 @@ namespace Point_Internal_API.Controllers
     {
         DataClassesDataContext db = new DataClassesDataContext();
 
+        [Route("Change_Notifikasi_Status")]
+        [HttpPost]
+        public IHttpActionResult ChangeNotifikasiStatus(Guid id_notifikasi)
+        {
+            try
+            {
+                // Cari notifikasi berdasarkan id_user dan id_notifikasi
+                var notifikasi = db.VW_NOTIF_APPROVAL_BARGINGs.FirstOrDefault(x => x.id == id_notifikasi);
+
+                // Jika notifikasi ditemukan, update nilai isHasBeenRead menjadi true
+                if (notifikasi != null)
+                {
+                    db.cusp_update_status_notif(notifikasi.id); // Simpan perubahan ke database
+                    return Ok(new { Status = true, Message = "Status notifikasi berhasil diubah!" });
+                }
+                else
+                {
+                    return Content(HttpStatusCode.NotFound, new { Message = "Notifikasi tidak ditemukan!" });
+                }
+            }
+            catch (Exception e)
+            {
+                return Content(HttpStatusCode.InternalServerError, new { Message = e.Message });
+            }
+        }
+
+
         [Route("Get_Notifikasi/{id_user}")]
         [HttpGet]
         public IHttpActionResult GetNotifikasi(int id_user)
@@ -23,13 +50,14 @@ namespace Point_Internal_API.Controllers
             try
             {
                 var data = db.VW_NOTIF_APPROVAL_BARGINGs
-                    .Where(x => x.ID_USER == id_user && x.isHasBeenRead != true)
+                    .Where(x => x.ID_USER == id_user)
                     .Select(x => new {
                         x.title,
                         x.body,
                         x.date,
                         x.isHasBeenRead,
-                        x.ID_USER
+                        x.ID_USER,
+                        x.id
                     })
                     .ToList();
 

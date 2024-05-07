@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DB_OPT_POINTINTERNAL_KPTConnectionString-Web.config Connection String" description="DB_OPT_POINTINTERNAL_KPTConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=10.14.101.101\shpol;Initial Catalog=DB_OPT_POINTINTERNAL_KPT;Persist Security Info=True;User ID=sqlservices;Password=sqlservices1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\Administrator\\Source\\Repos\\SPUT-PROD-POINS-MOBILE-API\\Point_Internal_API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DB_OPT_POINTINTERNAL_KPTConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DB_ICT_WHATSAPPConnectionString-Web.config Connection String" description="DB_ICT_WHATSAPPConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=10.14.101.101\shpol;Initial Catalog=DB_ICT_WHATSAPP;User ID=sqlservices;Password=sqlservices1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\Administrator\\Source\\Repos\\SPUT-PROD-POINS-MOBILE-API\\Point_Internal_API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DB_ICT_WHATSAPPConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -271,7 +271,35 @@ namespace Point_Internal_API.Models
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), startDate, endDate);
 			return ((ISingleResult<cusp_avg_range_senselogResult>)(result.ReturnValue));
 		}
-	}
+
+        [global::System.Data.Linq.Mapping.FunctionAttribute(Name = "dbo.cusp_Notifikasi_Email_Otp")]
+        public int cusp_Notifikasi_Email_Otp([global::System.Data.Linq.Mapping.ParameterAttribute(DbType = "VarChar(50)")] string email, [global::System.Data.Linq.Mapping.ParameterAttribute(DbType = "VarChar(MAX)")] string body)
+        {
+            IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), email, body);
+            return ((int)(result.ReturnValue));
+        }
+
+        [global::System.Data.Linq.Mapping.FunctionAttribute(Name = "dbo.cusp_insert_tugboat")]
+        public int cusp_insert_tugboat([global::System.Data.Linq.Mapping.ParameterAttribute(Name = "TUG_BOAT", DbType = "VarChar(100)")] string tUG_BOAT)
+        {
+            IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), tUG_BOAT);
+            return ((int)(result.ReturnValue));
+        }
+
+        [global::System.Data.Linq.Mapping.FunctionAttribute(Name = "dbo.cusp_insert_barge")]
+        public int cusp_insert_barge([global::System.Data.Linq.Mapping.ParameterAttribute(Name = "BARGE", DbType = "VarChar(100)")] string bARGE)
+        {
+            IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), bARGE);
+            return ((int)(result.ReturnValue));
+        }
+
+        [global::System.Data.Linq.Mapping.FunctionAttribute(Name = "dbo.cusp_update_status_notif")]
+        public int cusp_update_status_notif([global::System.Data.Linq.Mapping.ParameterAttribute(DbType = "UniqueIdentifier")] System.Nullable<Guid> id)
+        {
+            IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), id);
+            return ((int)(result.ReturnValue));
+        }
+    }
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.TBL_M_APP_VERSION")]
 	public partial class TBL_M_APP_VERSION
@@ -345,9 +373,11 @@ namespace Point_Internal_API.Models
 		private int _ID;
 		
 		private string _BARGE;
-		
-    #region Extensibility Method Definitions
-    partial void OnLoaded();
+
+        private System.Nullable<bool> _VERIFICATION_STATUS;
+
+        #region Extensibility Method Definitions
+        partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
     partial void OnCreated();
     partial void OnIDChanging(int value);
@@ -400,8 +430,23 @@ namespace Point_Internal_API.Models
 				}
 			}
 		}
-		
-		public event PropertyChangingEventHandler PropertyChanging;
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage = "_VERIFICATION_STATUS", DbType = "Bit")]
+        public System.Nullable<bool> VERIFICATION_STATUS
+        {
+            get
+            {
+                return this._VERIFICATION_STATUS;
+            }
+            set
+            {
+                if ((this._VERIFICATION_STATUS != value))
+                {
+                    this._VERIFICATION_STATUS = value;
+                }
+            }
+        }
+
+        public event PropertyChangingEventHandler PropertyChanging;
 		
 		public event PropertyChangedEventHandler PropertyChanged;
 		
@@ -431,9 +476,10 @@ namespace Point_Internal_API.Models
 		private int _ID;
 		
 		private string _TUG_BOAT;
-		
-    #region Extensibility Method Definitions
-    partial void OnLoaded();
+        System.Nullable<bool> _VERIFICATION_STATUS;
+
+        #region Extensibility Method Definitions
+        partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
     partial void OnCreated();
     partial void OnIDChanging(int value);
@@ -486,8 +532,24 @@ namespace Point_Internal_API.Models
 				}
 			}
 		}
-		
-		public event PropertyChangingEventHandler PropertyChanging;
+
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage = "_VERIFICATION_STATUS", DbType = "Bit")]
+        public System.Nullable<bool> VERIFICATION_STATUS
+        {
+            get
+            {
+                return this._VERIFICATION_STATUS;
+            }
+            set
+            {
+                if ((this._VERIFICATION_STATUS != value))
+                {
+                    this._VERIFICATION_STATUS = value;
+                }
+            }
+        }
+
+        public event PropertyChangingEventHandler PropertyChanging;
 		
 		public event PropertyChangedEventHandler PropertyChanged;
 		
@@ -1911,8 +1973,9 @@ namespace Point_Internal_API.Models
 		private int _ID_USER;
 		
 		private string _NAMA;
-		
-		private string _CUSTOMER;
+        private int _COMPANY_ID;
+
+        private string _CUSTOMER;
 		
 		private string _JETTY;
 		
@@ -1987,8 +2050,24 @@ namespace Point_Internal_API.Models
 				}
 			}
 		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CUSTOMER", DbType="VarChar(50)")]
+
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage = "_COMPANY_ID", DbType = "Int NOT NULL")]
+        public int COMPANY_ID
+        {
+            get
+            {
+                return this._COMPANY_ID;
+            }
+            set
+            {
+                if ((this._COMPANY_ID != value))
+                {
+                    this._COMPANY_ID = value;
+                }
+            }
+        }
+
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CUSTOMER", DbType="VarChar(50)")]
 		public string CUSTOMER
 		{
 			get

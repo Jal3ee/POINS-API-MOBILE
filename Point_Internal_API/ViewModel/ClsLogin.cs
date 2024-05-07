@@ -10,6 +10,7 @@ using System.Drawing.Imaging;
 using Image = System.Drawing.Image;
 using System.Drawing.Drawing2D;
 using System.Drawing;
+using Google.Protobuf.WellKnownTypes;
 
 
 namespace Point_Internal_API.ViewModel
@@ -164,6 +165,23 @@ namespace Point_Internal_API.ViewModel
 
             grPhoto.Dispose();
             return bmPhoto;
+        }
+        public String NotifOtp(string Email, string Body)
+        {
+            try
+            {
+                var dataUser = db.VW_USERs.Where(x => x.EMAIL == Email).FirstOrDefault();
+
+                db.cusp_Notifikasi_Email_Otp(dataUser.EMAIL, Body);
+            }
+            catch (InvalidCastException ex)
+            {
+                Console.WriteLine("InvalidCastException: " + ex.Message);
+                Console.WriteLine("StackTrace: " + ex.StackTrace);
+                return "InvalidCastException occurred.";
+            }
+
+            return "";
         }
 
     }

@@ -57,7 +57,7 @@ namespace Point_Internal_API.Controllers
                     NAMA = user.NAMA,
                     PASSWORD = user.PASSWORD,
                     ID_COMPANY = user.ID_COMPANY,
-                    VERIFICATION_STATUS = "false" // Assuming the "VERIFICATION_STATUS" is a boolean type in the database
+                    VERIFICATION_STATUS = null // Set Null for account goes to waiti
                 };
 
                 db.TBL_M_USERs.InsertOnSubmit(newAccount);
@@ -356,9 +356,10 @@ namespace Point_Internal_API.Controllers
 
                     var query = newLogin.getPhoneByEmail(param.EMAIL);
                     newWa.sendMessage(query, "PT. Kalimantan Prima Persada: " + Environment.NewLine + "Kode otoritas anda untuk login POINS adalah: " + Environment.NewLine +
-                                            otp + Environment.NewLine + " ", "M-OK");
-                    //insert otp
+                                            otp + Environment.NewLine + " ", "POINS");
 
+                    var result = newLogin.NotifOtp(param.EMAIL, "PT. Kalimantan Prima Persada: " + Environment.NewLine + "Kode otoritas anda untuk login POINS adalah: " + Environment.NewLine +
+                                            otp + Environment.NewLine + " ");
 
                     return Ok(new { Status = true, Message = "Success Login here is your otp = "+otp });
                 }
